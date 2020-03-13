@@ -1,5 +1,21 @@
 # Todo
 
+* service-worker
+* manifest.json
+
+* FireFox Developer Edition
+
+* Query Parameter Handling
+
+* BB10 Web Browser
+* manifest.appcache
+* Open Search Description XML
+* Add To Home Screen
+
+* Self Extracting Archive
+
+### Screen Shots
+
 ![test](0.png)
 ![test](1.png)
 ![test](2.png)
@@ -25,17 +41,3 @@
 ![test](22.png)
 ![test](23.png)
 ![test](24.png)
-
-* service-worker
-* manifest.json
-
-* FireFox Developer Edition
-
-* Query Parameter Handling
-
-* BB10 Web Browser
-* manifest.appcache
-* Open Search Description XML
-* Add To Home Screen
-
-* Self Extracting Archive
