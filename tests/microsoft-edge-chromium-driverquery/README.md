@@ -30,6 +30,10 @@ Implement Caching and Async Web Storage
 
 * Self Extracting Archive
 
+### Notes
+
+Navigators Register Protocol Handler behaved similar to service worker installation with manifest.
+
 ### Screen Shots
 
 ![test](0.png)
