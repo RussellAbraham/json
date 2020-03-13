@@ -1,4 +1,16 @@
-# Todo
+# Tests
+
+Worker thread terminate function not used for the test.
+
+## Goal
+
+Emulate Query Language with custom registered protocol similar to Mongoose for MongoDB
+Integrate Message Passing Between Device Specific Applications on Windows, Android and BlackBerry 10.
+Emulate Self Extracting Archive, Trap, Wait
+Async Worker & --wait-shared-worker Threads
+Implement Caching and Async Web Storage
+
+## Todo
 
 * service-worker
 * manifest.json
