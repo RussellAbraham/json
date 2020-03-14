@@ -32,7 +32,7 @@ Implement Caching and Async Web Storage
 
 ### Notes
 
-Navigators Register Protocol Handler behaved similar to service worker installation with manifest.
+Navigators Register Protocol Handler
 
 ### Screen Shots
 ![test](00.jpg)
