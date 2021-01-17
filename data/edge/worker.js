@@ -1,0 +1,22 @@
+const WorkerMap = {
+    0: "length",
+    1: "name",
+    2: "arguments",
+    3: "caller",
+    4: "prototype",
+    5: "constructor",
+    6: "apply",
+    7: "bind",
+    8: "call",
+    9: "toString",
+    10: "__defineGetter__",
+    11: "__defineSetter__",
+    12: "hasOwnProperty",
+    13: "__lookupGetter__",
+    14: "__lookupSetter__",
+    15: "isPrototypeOf",
+    16: "propertyIsEnumerable",
+    17: "valueOf",
+    18: "__proto__",
+    19: "toLocaleString"
+};
